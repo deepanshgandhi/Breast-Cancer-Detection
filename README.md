@@ -4,7 +4,7 @@
 Predicting breast cancer (malignant or benign) using Machine Learning techniques.
 
 ## Dataset
-Kaggle's Breast Cancer Wisconsin (Diagnostic) Data Set -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+Kaggle's Breast Cancer Wisconsin (Diagnostic) Dataset -https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
 ## Algorithms used
 1. Logistic Regression
